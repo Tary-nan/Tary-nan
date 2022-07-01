@@ -85,6 +85,8 @@ I also give training in Flutter to students (Ivorian Institute of Technology)</d
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+ </div>
+ </td><td valign="top" width="33%">
 
 
 ### Database  
@@ -95,6 +97,8 @@ I also give training in Flutter to students (Ivorian Institute of Technology)</d
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 
 </div>
+ </td><td valign="top" width="33%">
+
  
 ### DevOps  
 <div align="center">  
@@ -104,6 +108,7 @@ I also give training in Flutter to students (Ivorian Institute of Technology)</d
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 
 </div>
+ 
 
 </td></tr></table>  
   
