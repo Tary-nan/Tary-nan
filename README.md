@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   
 
 ### <div align="center">I am Youssouf Tarpilga, Passionate about technology 👨💻 🚀.
+<br/>  
+<br/>  
 
 I offer you my expertise as a Flutter mobile developer and laravel backend.
 
@@ -103,18 +105,18 @@ I also give training in Flutter to students (Ivorian Institute of Technology)</d
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tary-nan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<!-- 
+<br/>   -->
 
-<br/>  
 
-
-## Recent Blog Posts  
+<!-- ## Recent Blog Posts  
   
 
 <br/>  
 
   
 
-<br/>  
+<br/>   -->
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=tary-nan&&style=flat-square" align="center" />
